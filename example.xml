@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<root xmlns:h="someAddress.info"
-      xmlns:p="someAddress.info/api"
+<root xmlns:p="someAddress.info/api"
       xmlns:q="someAddress.info/contact"
 >
-    <h:person>
+    <person>
         <name>Ken </name>
         <gender>Non-binary</gender>
         <age> 23 </age>
-    </h:person>
+    </person>
     <p:person>
         <name>Mckenzie </name>
         <gender>Female</gender>
